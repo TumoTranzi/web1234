@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:rgba(98, 133, 230, 0.689);
+    margin: 0;
+    padding: 0;
+    background-image: url("C:\Users\User\Desktop\Tumo Koloi 901019458 assignment\Navigation.jpeg") ;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.carousel {
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.carousel-item {
+    margin: 10px;
+    position: relative;
+}
+
+.carousel-item img {
+    width: 300px;
+    height: 200px;
+    transition: transform 0.3s;
+}
+
+.carousel-item img:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+.destinations-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.destination {
+    width: 30%;
+    margin: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.destination img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.destination a {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    color: #333;
+    text-decoration: none;
+}
+
+.destination a:hover {
+    text-decoration: underline;
+}
+section {
+    margin: 20px 0;
+}
+
+h2 {
+    color: #333;
+}
+.contact-form {
+    max-width: 400px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,
+}
+nav
+{ background-color: aqua;
+    
+
+}body {
+    background-image: url("C:\Users\User\Documents\Web design\Navigation.jpeg");
+  }
